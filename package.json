@@ -2,7 +2,7 @@
   "name": "devconector",
   "version": "1.0.0",
   "description": "Social network for developers",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
 		"server": "nodemon"
