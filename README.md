@@ -1,2 +1,2 @@
 # devConector
-An in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. 
+An in depth backend social network application using Node.js, Express and MongoDB along with ES6+. 
